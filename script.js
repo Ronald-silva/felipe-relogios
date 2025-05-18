@@ -2,75 +2,75 @@
         const products = [
             {
                 id: 1,
-                name: "Cronos Elegance",
-                price: "R$ 289,90",
-                description: "Relógio clássico com pulseira de couro genuíno e mostrador prateado.",
-                image: "img/atlantis-gold.jpg",
+                name: "Relógio Atlantis Masculino",
+                price: "R$ 80,00",
+                description: "Relógio clássico com Design robusto e elegante com pulseira metálica, mostrador moderno (preto ou prata) e resistência à água de até 50m. Ideal para quem busca estilo e durabilidade com ótimo custo-benefício..",
+                image: "img/atlantis.jpg",
                 category: "classico"
             },
             {
                 id: 2,
-                name: "SportTime Pro",
-                price: "R$ 349,90",
-                description: "Relógio esportivo resistente à água com cronômetro e calendário.",
+                name: "Relógio Digital G-Shock – Estilo e Resistência",
+                price: "R$ 35,90",
+                description: "Modelo esportivo com visual moderno e acabamento fosco. Resistente a impactos, com pulseira em silicone e visor digital com funções de hora, data e cronômetro. Perfeito para o dia a dia ou prática esportiva..",
                 image: "img/g-chock.jpg",
                 category: "esportivo"
             },
             {
                 id: 3,
-                name: "Urban Style",
-                price: "R$ 199,90",
-                description: "Relógio casual com design minimalista, perfeito para o dia a dia.",
+                name: "Relógio Atlantis Gold – Conforto e Sofisticação",
+                price: "R$ 50,90",
+                description: "Modelo leve e moderno com pulseira de borracha texturizada e caixa dourada. Disponível em mostradores coloridos (preto, azul e vermelho), resistente à água até 50m. Um acessório versátil que combina estilo e praticidade para o dia a dia.",
                 image: "img/atlantis-borracha.jpg",
                 category: "casual"
             },
             {
                 id: 4,
-                name: "Executive Gold",
-                price: "R$ 399,90",
-                description: "Relógio executivo com acabamento dourado e mostrador sofisticado.",
+                name: "Relógio Bulgari Cassino – Luxo com Personalidade Única",
+                price: "R$ 90,90",
+                description: "Inspirado no glamour dos cassinos, esse modelo traz um mostrador temático com visual de roleta e acabamento dourado imponente. A pulseira metálica complementa o design sofisticado, ideal para quem deseja se destacar com estilo e ousadia.",
                 image: "img/bulgari-cassino.jpg",
                 category: "classico"
             },
             {
                 id: 5,
-                name: "Adventure Gear",
-                price: "R$ 329,90",
-                description: "Relógio resistente para atividades ao ar livre com altímetro e bússola.",
+                name: "Relógio Festina Dourado – Presença e Prestígio em Cada Detalhe",
+                price: "R$ 80,90",
+                description: "Com design robusto, mostrador multifuncional e acabamento totalmente dourado, o Festina transmite imponência e sofisticação. Ideal para quem busca um relógio de alto impacto visual sem abrir mão da elegância. Um acessório que transforma qualquer ocasião em um momento de destaque..",
                 image: "img/atlantis-ouro.jpg",
-                category: "esportivo"
+                category: "classico"
             },
             {
                 id: 6,
-                name: "Midnight Blue",
-                price: "R$ 259,90",
-                description: "Relógio casual com mostrador azul profundo e detalhes em aço inoxidável.",
-                image: "img/atlantis.jpg",
-                category: "casual"
-            },
-            {
-                id: 7,
-                name: "Digital Smart",
-                price: "R$ 299,90",
-                description: "Relógio digital com múltiplas funções e display iluminado.",
-                image: "img/atlantis-misto.jpg",
-                category: "digital"
-            },
-            {
-                id: 8,
-                name: "Vintage Leather",
-                price: "R$ 279,90",
-                description: "Relógio com design retrô e pulseira de couro envelhecido.",
+                name: "Festina Gold Blue – Sofisticação com Espírito Esportivo",
+                price: "R$ 80,00",
+                description: "Um relógio que impõe respeito com seu acabamento dourado premium e mostrador azul profundo. Equipado com cronógrafo funcional e estrutura robusta, é a escolha perfeita para quem valoriza estilo, desempenho e destaque em qualquer ocasião. Elegância esportiva com presença de luxo.",
                 image: "img/festina-1.jpg",
                 category: "classico"
             },
             {
+                id: 7,
+                name: "Festina Gold White – Impacto Visual e Sofisticação",
+                price: "R$ 80,90",
+                description: "Design imponente com pulseira dourada de alta resistência e mostrador branco detalhado que inspira elegância. Ideal para quem deseja um acessório versátil que combina com eventos casuais ou formais. Com funções de cronógrafo, é mais do que um relógio – é um símbolo de presença.",
+                image: "img/festina-3.jpg",
+                category: "classico"
+            },
+            {
+                id: 8,
+                name: "Bulgari Hélice Azul – Design que Gira Cabeças",
+                price: "R$ 90,90",
+                description: "Um espetáculo visual com mostrador azul em formato de hélice, este relógio Bulgari une ousadia e sofisticação. Sua estrutura dourada impõe respeito, enquanto o mostrador dinâmico garante exclusividade. Ideal para quem quer se destacar com estilo e modernidade.",
+                image: "img/bulgari-blue.jpg",
+                category: "classico"
+            },
+            {
                 id: 9,
-                name: "Rose global",
-                price: "R$ 279,90",
-                description: "Relógio com design global e pulseira de borracha.",
-                image: "img/atlantis-rose.jpg",
-                category: "feminino"
+                name: "Atlantis 2 em 1 – Elegância e Tecnologia à Prova d'Água",
+                price: "R$ 90,90",
+                description: "Combinando mostrador analógico clássico e visor digital funcional, o Atlantis 2 em 1 oferece praticidade sem perder o estilo. Disponível nas versões branca e dourada, este modelo é resistente à água (50M) e ideal para quem busca versatilidade e presença marcante no pulso.",
+                image: "img/atlantis2em1.jpg",
+                category: "classico"
             }
         ];
 
@@ -95,7 +95,7 @@
                         <h3 class="product-name">${product.name}</h3>
                         <div class="product-price">${product.price}</div>
                         <p class="product-description">${product.description}</p>
-                        <a href="https://wa.me/5511987654321?text=Olá, quero reservar o Relógio ${encodeURIComponent(product.name)}." class="reserve-button" target="_blank">Reservar</a>
+                        <a href="https://wa.me/5585991575525?text=Olá, quero reservar o Relógio ${encodeURIComponent(product.name)}." class="reserve-button" target="_blank">Reservar</a>
                     </div>
                 `;
                 
