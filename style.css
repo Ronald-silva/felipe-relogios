@@ -277,6 +277,14 @@ footer {
     padding: 0.4rem 0.8rem;
     font-size: 0.8rem;
   }
+  
+  .product-category {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+  }
 
   header {
     padding: 1.5rem 0;
