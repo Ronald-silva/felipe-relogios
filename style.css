@@ -250,6 +250,16 @@ footer {
 
 .store-info {
   margin-bottom: 1rem;
+  color: white;
+}
+
+.store-info a {
+  color: white;
+}
+
+.store-info a:hover {
+  color: #e74c3c;
+  transition: color 0.2s ease;
 }
 
 /* Removidas regras duplicadas dos social links */
